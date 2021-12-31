@@ -1,15 +1,15 @@
-body{
+body {
     margin: 0;
     padding: 0;
 }
 
-.container{
+.container {
     text-align: center;
     padding: 0;
     margin: 0;
 }
 
-.top-row{
+.top-row {
     background-color: blueviolet;
     border-width: 1px;
     border-top: none;
@@ -18,7 +18,7 @@ body{
     border-right: solid;
 }
 
-.bottom-row{
+.bottom-row {
     background-color: cadetblue;
     border-width: 1px;
     border-top: none;
@@ -27,17 +27,17 @@ body{
     border-right: solid;
 }
 
-.row{
+.row {
     padding: 50px;
     text-align: center;
 }
 
-p{
+p {
     margin: 0;
     padding: 0;
 }
 
-img{
+img {
     max-width: 40%;
     height: auto;
     margin: 10%;
